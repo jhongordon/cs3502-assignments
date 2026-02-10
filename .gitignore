@@ -9,3 +9,5 @@ logwriter
 # Editor backups
 *˜
 *.swp
+assignment2/producer
+assignment2/consumer
