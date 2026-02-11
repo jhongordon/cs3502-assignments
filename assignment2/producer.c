@@ -1,4 +1,4 @@
-/* Jhon Gordon producer.c*/
+/* Jhon Gordon Section W03 producer.c*/
 #include <stdio.h>      // printf, fprintf
 #include <stdlib.h>     // atoi, exit
 #include <unistd.h>     // usleep
