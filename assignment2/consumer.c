@@ -1,4 +1,4 @@
-/* Jhon Gordon consumer.c*/
+/* Jhon Gordon Section W03 consumer.c*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
