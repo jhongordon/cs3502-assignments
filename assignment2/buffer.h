@@ -1,3 +1,4 @@
+/* Jhon Gordon Section W03 buffer.h */
 #ifndef BUFFER_H
 #define BUFFER_H
 
